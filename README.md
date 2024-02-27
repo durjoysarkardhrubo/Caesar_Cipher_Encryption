@@ -14,5 +14,3 @@ Simple Python script for text encryption using the Caesar Cipher technique.
 ## Author
 
 Durjoy Sarkar Dhrubo
-
----
